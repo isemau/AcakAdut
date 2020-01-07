@@ -1,0 +1,3 @@
+mv apt-fast.sh apt-fast
+mv apt-fast /usr/bin
+chmod +x /usr/bin/apt-fast
